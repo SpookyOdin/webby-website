@@ -87,7 +87,7 @@ img{
   transition: 0.8s;
 }
 
-.nav_bar a:hover::after,.nav_bar .active::after{
+.nav_bar a:hover::after{
   width: 93%;
 }
 
